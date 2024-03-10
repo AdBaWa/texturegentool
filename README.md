@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Texture Generation Tool is an automated script for creating textures for 3D models and graphic applications. It places defects or special features on a base color map. After the defects have been placed, the tool generates a normal map for each created texture to create the illusion of depth and detail on an otherwise flat surface.
+The Texture Generation Tool is an automated script for creating textures for 3D models and graphic applications. It places defects or special features on a base color map. After the defects have been placed, the tool generates a normal map for each created texture to create the illusion of depth and detail on an otherwise flat surface. This Tool can be implemented in a synthetic data render pipeline. 
 
 ## Functionality
 
